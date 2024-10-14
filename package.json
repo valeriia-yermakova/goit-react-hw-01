@@ -6,7 +6,7 @@
   "homepage": "https://username.github.io/repository-name",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-react-hw-01/",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
