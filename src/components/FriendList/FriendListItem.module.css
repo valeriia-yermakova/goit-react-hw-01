@@ -1,0 +1,21 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 8px;
+    align-items: center;
+    padding: 8px;
+  }
+  
+  .online {
+    color: green;
+  }
+  
+  .offline {
+    color: red;
+  }
+
+  p {
+    color: black;
+    margin: 0;
+  }
